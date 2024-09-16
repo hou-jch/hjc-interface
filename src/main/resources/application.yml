@@ -1,0 +1,9 @@
+server:
+  port: 8123
+  servlet:
+    context-path: /api
+houapi:
+  client:
+    access-key: 1234567890
+    secret-key: 0987654321
+
