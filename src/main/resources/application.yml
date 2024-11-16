@@ -6,4 +6,4 @@ houapi:
   client:
     access-key: 1234567890
     secret-key: 0987654321
-
+    gateway-host: http://127.0.0.1:8090
